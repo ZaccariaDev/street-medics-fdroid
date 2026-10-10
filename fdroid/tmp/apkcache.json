@@ -91,5 +91,17 @@
     "size": 57327306,
     "apkName": "street-medics-fr.apk",
     "added": 1791604839.0
+  },
+  "feature_graphic.png": {
+    "name": "feature_graphic",
+    "apkName": "feature_graphic.png",
+    "hash": "b1236e90af23a2ec8a02681d1c2242610c17a969aa591fa10eec80423890baa4",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "b1236e9",
+    "packageName": "b1236e90af23a2ec8a02681d1c2242610c17a969aa591fa10eec80423890baa4",
+    "size": 178475,
+    "added": 1791609590.377898
   }
 }
