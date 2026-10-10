@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "street-medics-fr.apk": {
-    "hash": "b1bbbdb4575fe49987ee1355ee01b1866b54e69dae08a493bc5299ec7181f9ad",
+    "hash": "5f7cada022969242b28a54b54abbeae78762ec37fa9f0088b2ddaf27c4fb662f",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -76,9 +76,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "fr.streetmedics.street_medics_app",
-    "versionCode": 1,
+    "versionCode": 7,
     "name": "Street Medics",
-    "versionName": "1.0.0",
+    "versionName": "1.0.7",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -88,7 +88,7 @@
     ],
     "sig": "e6d624847ecd48545469b4976adeaf23",
     "signer": "4c2e846d748e8416f8291980fd07624de41a62a2d88d3c9bb04a34eb6d2da368",
-    "size": 57327306,
+    "size": 57522286,
     "apkName": "street-medics-fr.apk",
     "added": 1791604839.0
   },
@@ -102,6 +102,6 @@
     "versionName": "b1236e9",
     "packageName": "b1236e90af23a2ec8a02681d1c2242610c17a969aa591fa10eec80423890baa4",
     "size": 178475,
-    "added": 1791609590.377898
+    "added": 1791609590.0
   }
 }
