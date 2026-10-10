@@ -50,7 +50,7 @@ sdk_path: /usr/lib/android-sdk
 
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
-repo_url: https://raw.githubusercontent.com/ZaccariaDev/street-medics-fdroid/main/fdroid/repo
+repo_url: https://zaccariadev.github.io/street-medics-fdroid/fdroid/repo
 #
 # Base URL for per-package pages on the website of this repo,
 # i.e. https://f-droid.org/packages/<appid>/ This should be accessible
