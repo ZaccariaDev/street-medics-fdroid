@@ -1,8 +1,8 @@
 Categories:
   - Navigation
 License: GPL-3.0-only
-WebSite: https://github.com/ZaccariaDev/street-medics-app
-SourceCode: https://github.com/ZaccariaDev/street-medics-app
+WebSite: https://street-medics.xpertise.quest/
+SourceCode: https://street-medics.xpertise.quest/
 IssueTracker: https://github.com/ZaccariaDev/street-medics-app/issues
 
 Summary: Secours de rue — alerte les street medics à proximité
@@ -14,6 +14,42 @@ Description: |
   * Un medic prend en charge → le patient suit son arrivée en direct.
   * Envoyer un SOS rend automatiquement hors service (on est victime, pas secouriste).
   * 100% open source, OpenStreetMap uniquement, aucune donnée revendue.
+
+  == Devenir street medic ==
+
+  1. Ouvrez l'onglet « SOS » et appuyez sur « Devenir street medic ».
+  2. Créez votre compte (email + mot de passe) ou connectez-vous.
+  3. Indiquez votre nom et votre numéro de téléphone.
+  4. Appuyez sur « Prendre le service » → vous apparaissez sur la carte.
+  5. Vous recevez une notification quand un SOS est émis à proximité.
+  6. Prenez en charge le SOS → le patient suit votre position en direct.
+  7. Appuyez sur « Terminer mon service » quand vous avez fini.
+
+  == Les 3 onglets ==
+
+  * **SOS** — Envoyer votre position en cas d'urgence, ou prendre le service
+    comme street medic.
+  * **Carte** — Voir les SOS et les medics disponibles en temps réel
+    (réservé aux medics en service et aux patients qui ont envoyé un SOS).
+  * **Réglages** — Permissions, langue, rayon d'alerte, nom du medic.
+
+  == Localisation en arrière-plan ==
+
+  La permission « Localisation toujours active » est demandée uniquement pour
+  deux cas :
+  * Les personnes qui ont envoyé un SOS → leur position continue d'être
+    partagée pour que le medic qui arrive puisse les trouver.
+  * Les medics qui se déplacent vers un blessé → leur position est mise à
+    jour en arrière-plan pour guider le patient.
+
+  Si vous n'êtes ni l'un ni l'autre, cette permission n'est pas nécessaire.
+
+  == Langues ==
+
+  L'application est disponible en 24 langues : anglais, français, espagnol,
+  allemand, italien, portugais, néerlandais, polonais, russe, turc, arabe,
+  chinois, japonais, coréen, hindi, bengali, ourdou, indonésien, vietnamien,
+  thaï, roumain, ukrainien, grec, hébreu, swahili.
 
 RepoType: git
 Repo: https://github.com/ZaccariaDev/street-medics-app
