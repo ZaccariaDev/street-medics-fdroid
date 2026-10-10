@@ -1,0 +1,32 @@
+Categories:
+  - Navigation
+License: GPL-3.0-only
+WebSite: https://github.com/ZaccariaDev/street-medics-app
+SourceCode: https://github.com/ZaccariaDev/street-medics-app
+IssueTracker: https://github.com/ZaccariaDev/street-medics-app/issues
+
+Summary: Secours de rue — alerte les street medics à proximité
+Description: |
+  Street Medics FR connecte les secouristes de rue aux personnes en détresse.
+
+  * Un patient envoie un SOS → sa position apparaît en temps réel sur la carte
+    des medics disponibles à proximité.
+  * Un medic prend en charge → le patient suit son arrivée en direct.
+  * Envoyer un SOS rend automatiquement hors service (on est victime, pas secouriste).
+  * 100% open source, OpenStreetMap uniquement, aucune donnée revendue.
+
+RepoType: git
+Repo: https://github.com/ZaccariaDev/street-medics-app
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: android
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
