@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "street-medics-fr.apk": {
-    "hash": "7d2094e5655d92a87fd71cf281363ab7e460e7368fb62d2f4a5612da98cd7b97",
+    "hash": "5a47c7ee78a7c32b392de51767782b5cfb5a0e7560307d6dad9c1a6eb9a71208",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -88,7 +88,7 @@
     ],
     "sig": "e6d624847ecd48545469b4976adeaf23",
     "signer": "4c2e846d748e8416f8291980fd07624de41a62a2d88d3c9bb04a34eb6d2da368",
-    "size": 57800730,
+    "size": 57866266,
     "apkName": "street-medics-fr.apk",
     "added": 1791604839.0
   },
