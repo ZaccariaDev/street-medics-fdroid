@@ -105,7 +105,7 @@
     "added": 1791609590.0
   },
   "fr.streetmedics.street_medics_app.apk": {
-    "hash": "0ba698314b15d15e195429bd22601a93b48bc2877254c5970fddf6f51afcf538",
+    "hash": "8701830da21ab386da69c9ef0cb3263da4820674d296f12e459a6df7378f57e9",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -191,8 +191,8 @@
     ],
     "sig": "e6d624847ecd48545469b4976adeaf23",
     "signer": "4c2e846d748e8416f8291980fd07624de41a62a2d88d3c9bb04a34eb6d2da368",
-    "size": 60087247,
+    "size": 60087523,
     "apkName": "fr.streetmedics.street_medics_app.apk",
-    "added": 1791885000.570121
+    "added": 1791885000.0
   }
 }
