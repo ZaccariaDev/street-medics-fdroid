@@ -196,7 +196,7 @@
     "added": 1791885000.0
   },
   "com.xpertise.smedics.apk": {
-    "hash": "2c72f7041d6f6cc6dd5bdbf0c157cd523f217f9f62471d70bda0e36623f40b78",
+    "hash": "50d0202f42a471ca39e988656dfcd8c47520fe9dc8c53c2ce70d3614e1374201",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -284,6 +284,6 @@
     "signer": "4c2e846d748e8416f8291980fd07624de41a62a2d88d3c9bb04a34eb6d2da368",
     "size": 60087511,
     "apkName": "com.xpertise.smedics.apk",
-    "added": 1791890526.720512
+    "added": 1791890526.0
   }
 }
