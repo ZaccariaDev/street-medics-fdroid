@@ -33,6 +33,9 @@ Description: "Street Medics FR connecte les secouristes de rue aux personnes en 
 RepoType: git
 Repo: https://github.com/ZaccariaDev/street-medics-app
 Builds:
+- versionName: 1.18.1
+  versionCode: 19
+  commit: 32caee1
 - versionName: 1.18.0
   versionCode: 18
   commit: 0ee0a83988d27a477d18993a95a5a44c7356dbb7
@@ -42,5 +45,5 @@ Builds:
   subdir: android
   gradle:
   - true
-CurrentVersion: 1.18.0
-CurrentVersionCode: 18
+CurrentVersion: 1.18.1
+CurrentVersionCode: 19
