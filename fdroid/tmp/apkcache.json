@@ -196,7 +196,7 @@
     "added": 1791885000.0
   },
   "com.xpertise.smedics.apk": {
-    "hash": "50d0202f42a471ca39e988656dfcd8c47520fe9dc8c53c2ce70d3614e1374201",
+    "hash": "72b93e6893875615ef7b6f32fe4d8929fa4d3d2ef7263e951aa115e781598ce8",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -216,10 +216,6 @@
         null
       ],
       [
-        "android.permission.ACCESS_BACKGROUND_LOCATION",
-        null
-      ],
-      [
         "android.permission.READ_PHONE_STATE",
         29
       ],
@@ -229,10 +225,6 @@
       ],
       [
         "android.permission.FOREGROUND_SERVICE_LOCATION",
-        null
-      ],
-      [
-        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
         null
       ],
       [
@@ -270,9 +262,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.xpertise.smedics",
-    "versionCode": 18,
+    "versionCode": 25,
     "name": "Street Medics",
-    "versionName": "1.18.0",
+    "versionName": "1.18.7",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -282,7 +274,7 @@
     ],
     "sig": "e6d624847ecd48545469b4976adeaf23",
     "signer": "4c2e846d748e8416f8291980fd07624de41a62a2d88d3c9bb04a34eb6d2da368",
-    "size": 60087511,
+    "size": 60366103,
     "apkName": "com.xpertise.smedics.apk",
     "added": 1791890526.0
   }
